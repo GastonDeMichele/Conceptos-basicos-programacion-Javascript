@@ -1,0 +1,1 @@
+/*Mirar la clase en caso de necesitar, pero no es tan necesario para el dom en un principio. */
